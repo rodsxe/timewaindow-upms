@@ -1,5 +1,5 @@
 # TIME WINDOW-UPMS
-Project destinated to the paper "Analysis of Variable Neighborhood Descent as a Local Search Operator for Total Weighted Tardiness Problem on Unrelated Parallel Machines"
+Project destinated to the paper "Weighted earliness and tardiness minimization with idle times: An analysis of time window influence on scheduling over unrelated parallel machines environments"
 
 #EXPERIMENTS CONFIGURATIONS
 
